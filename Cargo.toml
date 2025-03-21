@@ -1,0 +1,11 @@
+[package]
+name = "Ambilight"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde = { version = "1.0.219", features = ["derive"] }
+toml = "0.8.20"
+rayon = "1.10.0"
+serialport = "4.7.0"
+scrap = "0.5.0"

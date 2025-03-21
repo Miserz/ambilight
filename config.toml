@@ -1,0 +1,16 @@
+fps = 60
+port_name = "COM10"
+baud_rate = 500000
+
+top_led_count = 29
+left_led_count = 17
+right_led_count = 17
+bottom_left_led_count = 14
+bottom_right_led_count = 14
+offset = 4
+invert_direction = true
+pixel_thickness = 10
+
+brightness = 100
+white_balance_temperature = 2600.0
+gamma = 1.694
